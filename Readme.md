@@ -1,6 +1,6 @@
 # Browser
 #### Supermium (Chrome Fork Windows OLDS)
-https://github.com/win32ss/supermium
+https://github.com/win32ss/supermium/releases
 #### Mypal
 https://www.mypal-browser.org/
 
